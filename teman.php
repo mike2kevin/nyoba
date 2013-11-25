@@ -1,40 +1,111 @@
 <html>
 <head>
+<link href="jquery-mobile/jquery.mobile.theme-1.0.min.css" rel="stylesheet" type="text/css" />
+<link href="jquery-mobile/jquery.mobile.structure-1.0.min.css" rel="stylesheet" type="text/css" />
+<script src="jquery-mobile/jquery-1.6.4.min.js" type="text/javascript"></script>
+<script src="jquery-mobile/jquery.mobile-1.0.min.js" type="text/javascript"></script>
 </head>
 <body>
 <div data-role="page" id="page">
- <div data-role="content">Warning! Tekan tombol F5 satu kali bila masih berada di tampilan berwarna abu-abu..</div>
-  <div data-role="content"> </div>
-  <div data-role="content">Silakan pilih webservice yang ingin dicoba pada tombol di bawah ini : </div>
-  <br>
-  <div data-role="fieldcontain">
-    <div align="left"><a href="Progif/adhel/index.html" data-role="button" data-icon="arrow-r">Kelompok Adhela</a></div>
-    <div align="left"><a href="Progif/BernadetteVina" data-role="button" data-icon="arrow-r">Kelompok Bernadette Vina</a></div>    
-    <div align="left"><a href="Progif/bintang/converter.php" data-role="button" data-icon="arrow-r">Kelompok Bintang Adinandra</a></div>  
-   <div align="left"><a href="Progif/danang/contoh.xml" data-role="button" data-icon="arrow-r">Kelompok Danang Arbansa</a></div>  
-   <div align="left"><a href="Progif/danny" data-role="button" data-icon="arrow-r">Kelompok Danny Pranoto</a></div>  
-   <div align="left"><a href="Progif/Faiz2010/Protif" data-role="button" data-icon="arrow-r">Kelompok Faiz 2010</a></div>  
-   <div align="left"><a href="Progif/fajrin/tugas2.php" data-role="button" data-icon="arrow-r">Kelompok M.Fajrin</a></div>  
-   <div align="left"><a href="Progif/fania" data-role="button" data-icon="arrow-r">Kelompok Fania Anindhita</a></div>  
-   <div align="left"><a href="Progif/farrel/xmlparse_tugas2.php" data-role="button" data-icon="arrow-r">Kelompok Farrel Y</a></div>  
-   <div align="left"><a href="Progif/fatoni" data-role="button" data-icon="arrow-r">Kelompok M.Fatoni</a></div>  
-   <div align="left"><a href="Progif/gilang" data-role="button" data-icon="arrow-r">Kelompok Gilang Ramadhan</a></div>  
-   <div align="left"><a href="Progif/habib-andy" data-role="button" data-icon="arrow-r">Kelompok Habib Ridho</a></div>  
-   <div align="left"><a href="Progif/hendy/data3.xml" data-role="button" data-icon="arrow-r">Kelompok Christian Hendy</a></div>  
-   <div align="left"><a href="Progif/icon" data-role="button" data-icon="arrow-r">Kelompok Abraham W.K</a></div>  
-   <div align="left"><a href="Progif/nicot/checkbox.php" data-role="button" data-icon="arrow-r">Kelompok Nicholas N.R</a></div>  
-   <div align="left"><a href="Progif/oliv" data-role="button" data-icon="arrow-r">Kelompok Olivia</a></div>  
-   <div align="left"><a href="Progif/pradita/DaftarIdol.xml" data-role="button" data-icon="arrow-r">Kelompok Aditya Pradita</a></div>  
-   <div align="left"><a href="Progif/prama/RestWebServiceClient" data-role="button" data-icon="arrow-r">Kelompok Prama</a></div>  
-   <div align="left"><a href="Progif/raosan" data-role="button" data-icon="arrow-r">Kelompok Raosan Fikri</a></div>  
-   <div align="left"><a href="Progif/reni/main.php" data-role="button" data-icon="arrow-r">Kelompok Khairanni Ummah</a></div>  
-   <div align="left"><a href="Progif/Rizky2010/index.php" data-role="button" data-icon="arrow-r">Kelompok Rizky 2010</a></div>  
-   <div align="left"><a href="Progif/sena" data-role="button" data-icon="arrow-r">Kelompok M.Sena</a></div>  
-   <div align="left"><a href="Progif/stefio2010/webservice.php" data-role="button" data-icon="arrow-r">Kelompok Stefio K 2010</a></div>  
-   <div align="left"><a href="Progif/widya2010/protif.php" data-role="button" data-icon="arrow-r">Kelompok Widya 2010</a></div>
-	<div align="left"><a href="home.php" data-role="button" data-icon="arrow-r">Back</a></div>
-  </div>
-  
+ <h1>TUGAS 3 - II3160</h1>
+ <h2>Andre 18211020 / Michael 18211023</h2>
+ 
+ <p>Kelompok Adhela</p>
+ <iframe width="80%" height="450" id="display" src="http://localhost/Progif/adhel/index.html">
+ </iframe>
+
+ <p>Kelompok Bernadette Vina</p>
+ <iframe width="80%" height="450" id="display" src="http://localhost/Progif/BernadetteVina/index.php">
+ </iframe>
+
+ <p>Kelompok Bintang Adinandra</p>
+ <iframe width="80%" height="450" id="display" src="http://localhost/Progif/bintang/converter.php">
+ </iframe>  
+
+ <p>Kelompok Danang Arbansa</p>
+ <iframe width="80%" height="450" id="display" src="http://localhost/Progif/danang/contoh.xml">
+ </iframe> 
+
+ <p>Kelompok Danny Pranoto</p>
+ <iframe width="80%" height="450" id="display" src="http://localhost/Progif/danny/index.php">
+ </iframe>
+
+ <p>Kelompok Faiz 2010</p>
+ <iframe width="80%" height="450" id="display" src="http://localhost/Progif/Faiz2010/Protif/index.php">
+ </iframe>
+
+ <p>Kelompok M.Fajrin</p>
+ <iframe width="80%" height="450" id="display" src="http://localhost/Progif/fajrin/tugas2.php">
+ </iframe>
+
+ <p>Kelompok Fania Anindhita</p>
+ <iframe width="80%" height="450" id="display" src="http://localhost/Progif/fania/index.php">
+ </iframe>
+
+ <p>Kelompok Farrel Y</p>
+ <iframe width="80%" height="450" id="display" src="http://localhost/Progif/farrel/xmlparse_tugas2.php">
+ </iframe>
+
+ <p>Kelompok M.Fatoni</p>
+ <iframe width="80%" height="450" id="display" src="http://localhost/Progif/fatoni/index.php">
+ </iframe>
+
+ <p>Kelompok Gilang Ramadhan</p>
+ <iframe width="80%" height="450" id="display" src="http://localhost/Progif/gilang/index.php">
+ </iframe>
+ 
+ <p>Kelompok Habib Ridho</p>
+ <iframe width="80%" height="450" id="display" src="http://localhost/Progif/habib-andy/index.php">
+ </iframe>
+
+ <p>Kelompok Christian Hendy</p>
+ <iframe width="80%" height="450" id="display" src="http://localhost/Progif/hendy/data3.xml">
+ </iframe>
+
+ <p>Kelompok Abraham W.K</p>
+ <iframe width="80%" height="450" id="display" src="http://localhost/Progif/icon/index.php">
+ </iframe>
+
+ <p>Kelompok Nicholas N.R</p>
+ <iframe width="80%" height="450" id="display" src="http://localhost/Progif/nicot/checkbox.php">
+ </iframe>
+
+ <p>Kelompok Olivia</p>
+ <iframe width="80%" height="450" id="display" src="http://localhost/Progif/oliv/index.php">
+ </iframe>
+
+ <p>Kelompok Aditya Pradita</p>
+ <iframe width="80%" height="450" id="display" src="http://localhost/Progif/pradita/DaftarIdol.xml">
+ </iframe>
+
+ <p>Kelompok Prama</p>
+ <iframe width="80%" height="450" id="display" src="http://localhost/Progif/prama/RestWebServiceClient/index.html">
+ </iframe>
+
+ <p>Kelompok Raosan Fikri</p>
+ <iframe width="80%" height="450" id="display" src="http://localhost/Progif/raosan/index.php">
+ </iframe>
+
+ <p>Kelompok Khairanni Ummah</p>
+ <iframe width="80%" height="450" id="display" src="http://localhost/Progif/reni/main.php">
+ </iframe>
+
+ <p>Kelompok Rizky 2010</p>
+ <iframe width="80%" height="450" id="display" src="http://localhost/Progif/Rizky2010/index.php">
+ </iframe>
+
+ <p>Kelompok M.Sena</p>
+ <iframe width="80%" height="450" id="display" src="http://localhost/Progif/sena/index.php">
+ </iframe>
+
+ <p>Kelompok Stefio K 2010</p>
+ <iframe width="80%" height="450" id="display" src="http://localhost/Progif/stefio2010/webservice.php">
+ </iframe> 
+
+ <p>Kelompok Widya 2010</p>
+ <iframe width="80%" height="450" id="display" src="http://localhost/Progif/widya2010/protif.php">
+ </iframe> 
+ 
 </div>
 
 </body>
