@@ -12,6 +12,7 @@
     <div align="left"><a href="d.php" data-role="button" data-icon="arrow-r">Struktur organisasi</a></div>
     <div align="left"><a href="c.php" data-role="button" data-icon="arrow-r">Biodata singkat anggota organisasi</a></div>
     <div align="left"><a href="e.php" data-role="button" data-icon="arrow-r">Pembuat web</a></div>
+	<div align="left"><a href="teman.php" data-role="button" data-icon="arrow-r">Melihat webservice yang lain</a></div>
   </div>
   
 </div>
