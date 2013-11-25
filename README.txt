@@ -1,4 +1,6 @@
-nyoba
+Tugas 3 di dalam teman.php hanya akan berjalan bila seluruh folder
+pekerjaan teman-teman berada di dalam folder htdocs
+dan semua file di dalam repository ini di letakkan di htdocs juga.
 =====
 
 Tugas Pemrograman Integratif
