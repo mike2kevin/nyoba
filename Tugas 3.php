@@ -25,7 +25,7 @@
 				$f13 = "http://localhost/a/testPHP2/test.xml";
 				$f14 = "http://localhost/a/tugas-2-pemrograman-integratif/data3.xml";
 				$f15 = "http://localhost/a/web-service/datasiswa.xml";
-			echo "<h1> Ambil semua XML! </h1>";
+			echo "<h1> Mengambil XML... </h1>";
 			for ($i=1; $i<16; $i++){
 				$nf="f".$i;
 				echo "x.$i".$$nf; 
