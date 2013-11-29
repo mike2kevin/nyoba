@@ -1,51 +1,153 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <rec>
-<note>
-<nama>Andre</nama>
-<nick>Drev</nick>
-<gender>Pria</gender>
-<lamaKerja>4</lamaKerja>
-<lulusan>ITB</lulusan>
-<jabatan>Ketua</jabatan>
-</note>
-<note>
-<nama>Jessica</nama>
-<nick>Jei</nick>
-<gender>Wanita</gender>
-<lamaKerja>2</lamaKerja>
-<lulusan>UNPAR</lulusan>
-<jabatan>Sekretaris</jabatan>
-</note>
-<note>
-<nama>Devienna</nama>
-<nick>Dung2</nick>
-<gender>Wanita</gender>
-<lamaKerja>2</lamaKerja>
-<lulusan>Maranatha</lulusan>
-<jabatan>Bendahara</jabatan>
-</note>
-<note>
-<nama>William</nama>
-<nick>Bro</nick>
-<gender>Pria</gender>
-<lamaKerja>4</lamaKerja>
-<lulusan>ITHB</lulusan>
-<jabatan>Programmer</jabatan>
-</note>
-<note>
-<nama>Stephanie</nama>
-<nick>Phanie</nick>
-<gender>Wanita</gender>
-<lamaKerja>7</lamaKerja>
-<lulusan>UI</lulusan>
-<jabatan>Auditor</jabatan>
-</note>
-<note>
-<nama>Larissa</nama>
-<nick>Lar</nick>
-<gender>Wanita</gender>
-<lamaKerja>4</lamaKerja>
-<lulusan>ITS</lulusan>
-<jabatan>Designer</jabatan>
-</note>
+<menu>
+<nama>Nasi Goreng B</nama>
+<harga>17000</harga>
+<t>dua</t>
+<ket>Nasi goreng khas kedai kami dengan daging babi berkualitas tinggi dan tingkat kepedasan yang beragam</ket>
+</menu>
+<menu>
+<nama>Nasi Goreng</nama>
+<harga>15000</harga>
+<t>satu</t>
+<ket>Nasi goreng khas kedai kami dengan daging ayam/sapi berkualitas tinggi dan tingkat kepedasan yang beragam</ket>
+</menu>
+<menu>
+<nama>EsTeEmJe</nama>
+<harga>5000</harga>
+<t>tiga</t>
+<ket>Takut kepedasan saat makan masakan kami?? jangan khawatir! Ada Es Teh Manis Jumbo yang akan mendinginkannya.. Satu kalik gleek, langsung jeesssss...</ket>
+</menu>
+<menu>
+<nama>PemPek Nyelem</nama>
+<harga>14000</harga>
+<t>satu</t>
+<ket>Pempek yang satu ini akan membuat anda ketagihan dengan kuahnya yang gurihhh...</ket>
+</menu>
+<menu>
+<nama>Nasi Campur Aduk</nama>
+<harga>27000</harga>
+<t>dua</t>
+<ket>Campuran antara babi panggang, telor, dan baso goreng nan renyah yang dikombinasikan dengan gurihnya nasi hainan... Pasti akan membuatmu nambah porsi!</ket>
+</menu>
+<menu>
+<nama>Kwetiaw B Hot</nama>
+<harga>17000</harga>
+<t>dua</t>
+<ket>Ga mau makan nasi?? Tapi pengen makan babi???? Kita ada solusinya! Beli aja Kwetiaw B dengan tingkat pedas yang bisa diatur</ket>
+</menu>
+<menu>
+<nama>Kwetiaw Hot</nama>
+<harga>15000</harga>
+<t>satu</t>
+<ket>Kwetiaw super mantap yang memiliki tingkat kepedasan yang bisa diatur! Menu andalan koki kami</ket>
+</menu>
+<menu>
+<nama>Susu Panas - Dingin</nama>
+<harga>5000</harga>
+<t>tiga</t>
+<ket>Susu panas yang dapat menemani malam harimu dengan kehangatan... Atau Susu dingin yang menyegarkan panasnya harimu... itu pilihanmu :)</ket>
+</menu>
+<menu>
+<nama>Kopi tubruk</nama>
+<harga>3500</harga>
+<t>tiga</t>
+<ket>Kopi nan nikmat yang akan membuat matamu JRENNNGGGG!!</ket>
+</menu>
+<menu>
+<nama>Steak B</nama>
+<harga>25000</harga>
+<t>dua</t>
+<ket>Pengen menu western yang asik dan baru?? Ini bisa jadi pilihanmu!</ket>
+</menu>
+<menu>
+<nama>Steak</nama>
+<harga>23000</harga>
+<t>satu</t>
+<ket>Steak tepung yang nikmat dengan pilihan nasi atau kentang.. Menu favorit anak2!!</ket>
+</menu>
+<menu>
+<nama>Bacon</nama>
+<harga>24500</harga>
+<t>dua</t>
+<ket>Sering liat bacon di 9gag?? tapi ga pernah nyoba???? ini kesempatan kamu buat nyoba!!</ket>
+</menu>
+<menu>
+<nama>Bacon Halal</nama>
+<harga>20500</harga>
+<t>satu</t>
+<ket>Bacon tapi halal??? Iya dong! ini kan dari daging sapi.. :)</ket>
+</menu>
+<menu>
+<nama>Soft Drink Susu</nama>
+<harga>7000</harga>
+<t>tiga</t>
+<ket>Pengen yang asik dan seger2?? Coba sensasi minum susu dengan sensasi soda meriah!</ket>
+</menu>
+<menu>
+<nama>Cap Cay Kuah Pedas</nama>
+<harga>10000</harga>
+<t>satu</t>
+<ket>Pengen makan sayur?? kami punya kok! Jangan lupa coba cap cay dengan kuah hot ini yaaa...</ket>
+</menu>
+<menu>
+<nama>Kentang Goreng</nama>
+<harga>13000</harga>
+<t>satu</t>
+<ket>Pilihan asik buat nemenin kamu-kamu nongkrong sambil ngobrol ria! Porsi gedenya bakal bikin kamu puas menikmatinya!</ket>
+</menu>
+<menu>
+<nama>Es Krim Goreng</nama>
+<harga>8500</harga>
+<t>satu</t>
+<ket>Ga salah tuh es krim digoreng?? Hahaha.. coba yang satu ini dan rasakan kenikmatan garing hangat2 dan manis dingin2 dalam satu kali HAP!!</ket>
+</menu>
+<menu>
+<nama>Es Jeruk Panas</nama>
+<harga>5500</harga>
+<t>tiga</t>
+<ket>Es jeruk kok panas?? Haha.. ini maksudnya kalian bisa memilih mau es jeruk atau jeruk panas ;)</ket>
+</menu>
+<menu>
+<nama>BBQ B-S</nama>
+<harga>25000</harga>
+<t>dua</t>
+<ket>Nikmati enaknya daging babi dan daging sapi secara bersamaan ketika kamu makan menu ini! dijamin mau dan mau lagi...</ket>
+</menu>
+<menu>
+<nama>Krim Soup</nama>
+<harga>9500</harga>
+<t>satu</t>
+<ket>Hangat dan gurihnya ga akan terlupa! Pas banget buat jadi penghangat waktu ngerumpi di malam hari</ket>
+</menu>
+<menu>
+<nama>Sosis Hot</nama>
+<harga>10000</harga>
+<t>satu</t>
+<ket>Menu camilan andalan koki terbaik kami.. Dengan berbagai bumbu yang bisa di mix'n match sendiri, rasanya akan berbeda sesuai dengan racikan kamu sendiri</ket>
+</menu>
+<menu>
+<nama>Sosis Bot</nama>
+<harga>13000</harga>
+<t>dua</t>
+<ket>Jarang-jarang lho ada sosis babi dengan bumbu yang bisa dipilih sendiri.. hahaha.. tapi di sini ada! Dicoba ya...</ket>
+</menu>
+<menu>
+<nama>Panadol Ekstra</nama>
+<harga>7000</harga>
+<t>tiga</t>
+<ket>Kok jualan obat??? tenang.. ini adalah minuman coklat panas terbaik yang kami miliki.. dapat mengusir stress kamu dengan ampuh..</ket>
+</menu>
+<menu>
+<nama>Bebek Panggang Komplit</nama>
+<harga>27500</harga>
+<t>satu</t>
+<ket>Nikmatnya daging bebek panggang yang manis, dipadu dengan sambal colek yang nikmat! lengkap dengan nasi sayurannya lhoo...</ket>
+</menu>
+<menu>
+<nama>Teh Hangat</nama>
+<harga>1000</harga>
+<t>tiga</t>
+<ket>Lagi kere nih?? hahaha... tenang2.. kami menyediakan minuman super hemat.. teh mantap hanya 1000 dan free refill lho!</ket>
+</menu>
 </rec>

@@ -1,5 +1,5 @@
-Tugas 3 di dalam teman.php hanya akan berjalan bila seluruh folder
-pekerjaan teman-teman berada di dalam folder htdocs\Progif
+Tugas 3 di dalam Tugas 3.php hanya akan berjalan bila seluruh folder
+pekerjaan teman-teman berada di dalam folder htdocs\a\
 dan semua file di dalam repository ini di letakkan di htdocs.
 =====
 

@@ -7,13 +7,37 @@
 </head>
 <body>
 <div data-role="page" id="page">
-  <div data-role="content">Silakan pilih pilihan di bawah ini :</div>
+  <div data-role="content">Silakan pilih Menu yang diinginkan dibawah ini :</div>
   <div data-role="fieldcontain">
-    <div align="left"><a href="d.php" data-role="button" data-icon="arrow-r">Struktur organisasi</a></div>
-    <div align="left"><a href="c.php" data-role="button" data-icon="arrow-r">Biodata singkat anggota organisasi</a></div>
-    <div align="left"><a href="e.php" data-role="button" data-icon="arrow-r">Pembuat web</a></div>
-	<div align="left"><a href="teman.php" data-role="button" data-icon="arrow-r">Melihat webservice yang lain</a></div>
-  </div>
+  <?php
+  echo '<br>';echo '<br>';echo '<br>';
+  ?>
+  <H1 align="center"><img src="jquery-mobile/images/nopork.png"  width="128" height="128"><H1>
+    <div align="left"><a href="d.php" data-role="button" data-icon="arrow-r">Menu non babi</a></div>
+    <?php
+  echo '<br>';echo '<br>';echo '<br>';
+  ?>
+  <H1 align="center"><img src="jquery-mobile/images/pig.png"  width="128" height="128"></H1>
+	<div align="left"><a href="c.php" data-role="button" data-icon="arrow-r">Menu dengan babi</a></div>
+  <?php
+  echo '<br>';echo '<br>';echo '<br>';
+  ?>
+  <H1 align="center"><img src="jquery-mobile/images/bev.png" width="128" height="128"></H1>
+	<div align="left"><a href="b.php" data-role="button" data-icon="arrow-r">Minuman</a></div>
+<?php
+  echo '<br>';echo '<br>';echo '<br>';
+  ?>
+  <H1 align="center"><img src="jquery-mobile/images/pesan.png" width="128" height="128"></H1>
+	<div align="left"><a href="ce.php" data-role="button" data-icon="arrow-r">Pesan</a></div>
+	<?php
+  echo '<br>';echo '<br>';echo '<br>';
+  ?>
+	<div align="left"><a href="Tugas 3.php" data-role="button" data-icon="arrow-r">Tugas 3</a></div>
+<?php
+  echo '<br>';echo '<br>';echo '<br>';
+  ?>
+  <div align="left"><a href="e.php" data-role="button" data-icon="arrow-r">Pembuat web</a></div>
+	</div>
   
 </div>
 

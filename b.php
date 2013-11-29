@@ -15,7 +15,7 @@ $xml=simplexml_load_file("note.xml");
 $x=0;
 foreach($xml->children() as $child)
   {
-  if ($child->t == 'dua') {
+  if ($child->t == 'tiga') {
 	echo $child->nama . '<br><br>';
 	$temp[$x] = $child->nama;
 echo  "<script type='text/javascript'>
