@@ -12,23 +12,28 @@
   <?php
   echo '<br>';echo '<br>';echo '<br>';
   ?>
+  <H1 align="center"><img src="jquery-mobile/images/menu.jpg"  width="180" height="128"><H1>
+    <div align="left"><a href="all.php" data-role="button" data-icon="arrow-r">Semua Menu</a></div>
+  <?php
+  echo '<br>';echo '<br>';echo '<br>';
+  ?>
   <H1 align="center"><img src="jquery-mobile/images/nopork.png"  width="128" height="128"><H1>
-    <div align="left"><a href="d.php" data-role="button" data-icon="arrow-r">Menu non babi</a></div>
+    <div align="left"><a href="halal.php" data-role="button" data-icon="arrow-r">Menu non babi</a></div>
     <?php
   echo '<br>';echo '<br>';echo '<br>';
   ?>
   <H1 align="center"><img src="jquery-mobile/images/pig.png"  width="128" height="128"></H1>
-	<div align="left"><a href="c.php" data-role="button" data-icon="arrow-r">Menu dengan babi</a></div>
+	<div align="left"><a href="haram.php" data-role="button" data-icon="arrow-r">Menu dengan babi</a></div>
   <?php
   echo '<br>';echo '<br>';echo '<br>';
   ?>
   <H1 align="center"><img src="jquery-mobile/images/bev.png" width="128" height="128"></H1>
-	<div align="left"><a href="b.php" data-role="button" data-icon="arrow-r">Minuman</a></div>
+	<div align="left"><a href="minum.php" data-role="button" data-icon="arrow-r">Minuman</a></div>
 <?php
   echo '<br>';echo '<br>';echo '<br>';
   ?>
   <H1 align="center"><img src="jquery-mobile/images/pesan.png" width="128" height="128"></H1>
-	<div align="left"><a href="ce.php" data-role="button" data-icon="arrow-r">Pesan</a></div>
+	<div align="left"><a href="order.php" data-role="button" data-icon="arrow-r">Pesan</a></div>
 	<?php
   echo '<br>';echo '<br>';echo '<br>';
   ?>
@@ -36,7 +41,7 @@
 <?php
   echo '<br>';echo '<br>';echo '<br>';
   ?>
-  <div align="left"><a href="e.php" data-role="button" data-icon="arrow-r">Pembuat web</a></div>
+  <div align="left"><a href="maker.php" data-role="button" data-icon="arrow-r">Pembuat web</a></div>
 	</div>
   
 </div>
