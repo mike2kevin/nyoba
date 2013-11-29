@@ -28,7 +28,7 @@
 			echo "<h1> Mengambil XML... </h1>";
 			for ($i=1; $i<16; $i++){
 				$nf="f".$i;
-				echo "x.$i".$$nf; 
+				echo "Tugas Teman $i"; 
 				$temp = simplexml_load_file($$nf);
 				if ($temp){
 					if (count($temp) != 0){					
